@@ -18,5 +18,8 @@
     <ClInclude Include="netCommon.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="netMessage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
